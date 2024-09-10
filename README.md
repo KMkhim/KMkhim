@@ -22,6 +22,7 @@
 
 
 <h1 align="center">My STAT</h1>
+
 <img alt="my stats" align="left" width="47%" height="300" src="https://github-readme-stats.vercel.app/api?username=kmkhim"/>
-<img alt="my stats" align="left" width="47%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmkhim"/>
+<img alt="my stats" align="left" width="47%" height="300" src=""/>
 
